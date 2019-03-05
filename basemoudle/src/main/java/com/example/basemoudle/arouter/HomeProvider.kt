@@ -21,4 +21,7 @@ interface HomeProvider : IProvider {
 
 
     fun jumpHomeDetailActivity(context: Context, orderNo: String)
+
+
+
 }
