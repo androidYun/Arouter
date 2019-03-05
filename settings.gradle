@@ -1,0 +1,1 @@
+include ':app', ':homemoudle', ':minemoudle', ':basemoudle', ':testmodule'
